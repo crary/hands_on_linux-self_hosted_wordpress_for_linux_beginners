@@ -33,7 +33,7 @@ Content:
 
 
     # include files for individual sites
-    include /etc/monit.d/*
+    include /etc/monit/conf-available/*.conf
 
 
 
